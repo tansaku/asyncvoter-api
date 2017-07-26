@@ -1,1 +1,6 @@
-environment: []
+environment:
+- refs/heads/master:
+  - !secret 'gAAAAABZZfR05O0WI7a36X8rtx17M2_2sRFX1ThYJAKnVuqAGI25GU7G4MaGfu2OtNVUC9HFAjl-GclInDl3H-N4-D0gHKOOSdPzXtvGJtT4YBZly8BWvJbXTftQDA9vBbvnvHkdvO9DpM03hrxSiWMLTZTVf_5Gw-qSC1OHMxRNmB8yHpW5DfnwQnsCD3L7IFkZ1vU1OB_A'
+installation_id: '34609'
+repo_id: '96991264'
+
